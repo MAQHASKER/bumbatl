@@ -1,0 +1,185 @@
+<div class="container d-flex flex-column pb-xxl-3 ps-xxl-3 pe-xxl-4 pt-xxl-4" style="min-height: 100vh;">
+    <div class="row d-flex flex-row ms-xxl-0 me-xxl-0 ms-md-0 me-md-0">
+        <div class="col-md-12 col-xxl-4 ps-xxl-0 pe-xxl-0 pt-xxl-3 pb-xxl-3">
+            <div
+                class="row d-flex flex-row justify-content-xxl-end ms-xxl-0 me-xxl-0 pe-xxl-0 pt-xxl-0 pb-xxl-0 ms-md-0 me-md-0 ms-0 me-0">
+                <div class="col-md-12 col-xxl-12 ps-xxl-0 pe-xxl-0 pt-3 pb-4 pt-xxl-0 pb-xxl-0">
+                    <ul class="nav nav-pills flex-column mb-auto ps-xxl-0 pe-xxl-0 pt-0 pt-xxl-0 pb-xxl-0">
+                        <li class="nav-item pt-xxl-0 pb-xxl-0"><a
+                                class="nav-link active link-body-emphasis d-xxl-flex align-items-xxl-center"
+                                href="#"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
+                                    fill="currentColor" viewBox="0 0 16 16" class="bi bi-house-door me-2">
+                                    <path
+                                        d="M8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4.5a.5.5 0 0 0 .5-.5v-4h2v4a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM2.5 14V7.707l5.5-5.5 5.5 5.5V14H10v-4a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v4z">
+                                    </path>
+                                </svg> Личный кабинет</a></li>
+                        <li class="nav-item pt-xxl-0 pb-xxl-0"><a
+                                class="nav-link link-body-emphasis d-xxl-flex align-items-xxl-center" href="#"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                    viewBox="0 0 16 16" class="bi bi-ui-checks me-2">
+                                    <path
+                                        d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5m0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5">
+                                    </path>
+                                </svg> Статистика</a></li>
+                        <li class="nav-item pt-xxl-0 pb-xxl-0"><a
+                                class="nav-link link-body-emphasis d-xxl-flex align-items-xxl-center" href="#"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                    viewBox="0 0 16 16" class="bi bi-universal-access me-2">
+                                    <path
+                                        d="M9.5 1.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M6 5.5l-4.535-.442A.531.531 0 0 1 1.531 4H14.47a.531.531 0 0 1 .066 1.058L10 5.5V9l.452 6.42a.535.535 0 0 1-1.053.174L8.243 9.97c-.064-.252-.422-.252-.486 0l-1.156 5.624a.535.535 0 0 1-1.053-.174L6 9z">
+                                    </path>
+                                </svg>&nbsp;Команда</a></li>
+                        <li class="nav-item pt-xxl-0 pb-xxl-0"><a
+                                class="nav-link link-body-emphasis d-xxl-flex align-items-xxl-center" href="#"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                    viewBox="0 0 16 16" class="bi bi-sliders2-vertical me-2">
+                                    <path fill-rule="evenodd"
+                                        d="M0 10.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1H3V1.5a.5.5 0 0 0-1 0V10H.5a.5.5 0 0 0-.5.5M2.5 12a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 1 0v-2a.5.5 0 0 0-.5-.5m3-6.5A.5.5 0 0 0 6 6h1.5v8.5a.5.5 0 0 0 1 0V6H10a.5.5 0 0 0 0-1H6a.5.5 0 0 0-.5.5M8 1a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 1 0v-2A.5.5 0 0 0 8 1m3 9.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1H14V1.5a.5.5 0 0 0-1 0V10h-1.5a.5.5 0 0 0-.5.5m2.5 1.5a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 1 0v-2a.5.5 0 0 0-.5-.5">
+                                    </path>
+                                </svg> Настройки</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 col-xxl-8 ps-xxl-0 pe-xxl-0 pt-xxl-3 pb-xxl-3">
+            <div class="row d-flex flex-column ms-xxl-0 me-xxl-0 pe-xxl-0 pt-xxl-0 pb-xxl-0 me-md-1 ms-md-0 ms-0 me-0">
+                <div class="col-md-12 col-xxl-12 ps-xxl-3 pe-xxl-3 pt-xxl-0 pb-xxl-0">
+                    <div
+                        class="row gy-4 row-cols-1 row-cols-md-2 row-cols-xl-3 mt-xxl-0 ms-xxl-0 me-xxl-0 mt-0 ms-0 me-0">
+                        <div class="col mt-xxl-0 ps-xxl-0 pe-xxl-0">
+                            <div
+                                class="text-center d-flex flex-column align-items-center align-items-xl-center pt-xxl-0 pb-xxl-0">
+                                <div class="bs-icon-lg bs-icon-rounded bs-icon-primary d-flex flex-shrink-0 justify-content-center align-items-center d-inline-block mb-3 bs-icon lg mb-xxl-2 ms-xxl-2 me-xxl-2 mt-xxl-0"
+                                    style="background: var(--bs-success);color: var(--bs-black);"><svg
+                                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                        viewBox="0 0 16 16" class="bi bi-box-seam">
+                                        <path
+                                            d="M8.186 1.113a.5.5 0 0 0-.372 0L1.846 3.5l2.404.961L10.404 2zm3.564 1.426L5.596 5 8 5.961 14.154 3.5zm3.25 1.7-6.5 2.6v7.922l6.5-2.6V4.24zM7.5 14.762V6.838L1 4.239v7.923l6.5 2.6zM7.443.184a1.5 1.5 0 0 1 1.114 0l7.129 2.852A.5.5 0 0 1 16 3.5v8.662a1 1 0 0 1-.629.928l-7.185 2.874a.5.5 0 0 1-.372 0L.63 13.09a1 1 0 0 1-.63-.928V3.5a.5.5 0 0 1 .314-.464L7.443.184z">
+                                        </path>
+                                    </svg></div>
+                                <div class="px-3 pt-xxl-3 pb-xxl-0">
+                                    <h1 class="mb-xxl-0 pt-xxl-3 pb-xxl-3">0 кг</h1>
+                                    <p class="text-uppercase mb-xxl-0" style="font-weight: bold;">Сдано макулатуры</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col mt-xxl-0 ps-xxl-0 pe-xxl-0">
+                            <div
+                                class="text-center d-flex flex-column align-items-center align-items-xl-center pt-xxl-0 pb-xxl-0">
+                                <div class="bs-icon-lg bs-icon-rounded bs-icon-primary d-flex flex-shrink-0 justify-content-center align-items-center d-inline-block mb-3 bs-icon lg mb-xxl-2 ms-xxl-2 me-xxl-2 mt-xxl-0"
+                                    style="background: var(--bs-info);"><svg xmlns="http://www.w3.org/2000/svg"
+                                        width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16"
+                                        class="bi bi-bar-chart-fill" style="color: var(--bs-light);">
+                                        <path
+                                            d="M1 11a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1zm5-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1zm5-5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1z">
+                                        </path>
+                                    </svg></div>
+                                <div class="px-3 pt-xxl-3 pb-xxl-0">
+                                    <h1 class="mb-xxl-0 pt-xxl-3 pb-xxl-3">#0</h1>
+                                    <p class="text-uppercase mb-xxl-0" style="font-weight: bold;">Рейтинг</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col mt-xxl-0 ps-xxl-0 pe-xxl-0">
+                            <div
+                                class="text-center d-flex flex-column align-items-center align-items-xl-center pt-xxl-0 pb-xxl-0">
+                                <div class="bs-icon-lg bs-icon-rounded d-flex flex-shrink-0 justify-content-center align-items-center d-inline-block mb-3 bs-icon lg mb-xxl-2 ms-xxl-2 me-xxl-2 mt-xxl-0"
+                                    style="background: var(--bs-warning);"><svg xmlns="http://www.w3.org/2000/svg"
+                                        width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16"
+                                        class="bi bi-star" style="color: var(--bs-black);">
+                                        <path
+                                            d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.565.565 0 0 0-.163-.505L1.71 6.745l4.052-.576a.525.525 0 0 0 .393-.288L8 2.223l1.847 3.658a.525.525 0 0 0 .393.288l4.052.575-2.906 2.77a.565.565 0 0 0-.163.506l.694 3.957-3.686-1.894a.503.503 0 0 0-.461 0z">
+                                        </path>
+                                    </svg></div>
+                                <div class="px-3 pt-xxl-3 pb-xxl-0">
+                                    <h1 class="mb-xxl-0 pt-xxl-3 pb-xxl-3">0</h1>
+                                    <p class="text-uppercase mb-xxl-0" style="font-weight: bold;">Достижения</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 col-xxl-12 pb-xxl-0 ps-xxl-3 pe-xxl-0 pt-xxl-0">
+                    <div class="card d-flex align-items-center mb-0" style="border-style: none;">
+                        <div class="bs-icon-xl bs-icon-circle bs-icon-primary d-xxl-flex align-items-xxl-center bs-icon my-4 mb-2 mt-2 me-3 ms-3 ms-xxl-0 me-xxl-3"
+                            style="background: var(--bs-success);"><svg xmlns="http://www.w3.org/2000/svg" width="1em"
+                                height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-person">
+                                <path
+                                    d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664z">
+                                </path>
+                            </svg></div>
+                        <div class="card-body pt-0 pb-0 ps-0 pe-0 pt-xxl-0" style="border-style: none;">
+                            <form method="post" class="ps-2 pt-2 pe-2 pb-3 pt-xxl-0 pb-xxl-0 ps-xxl-0 pe-xxl-0"><span
+                                    class="d-xxl-flex justify-content-xxl-start pt-1 pb-1 pt-xxl-0"
+                                    style="color: var(--bs-secondary);font-size: 13px;">Имя и фамилия</span>
+                                <div class="d-flex flex-row align-items-xxl-center mb-3"><input
+                                        class="form-control me-2" type="email" name="name" placeholder="Имя"
+                                        style="background: var(--bs-light);border-style: none;"><input
+                                        class="form-control ms-2" type="email" name="name" placeholder="Фамилия"
+                                        style="background: var(--bs-light);border-style: none;"></div><span
+                                    class="d-xxl-flex justify-content-xxl-start pt-1 pb-1 pt-xxl-0"
+                                    style="color: var(--bs-secondary);font-size: 13px;">Пароль и почта</span>
+                                <div class="d-flex flex-row align-items-xxl-center mb-3"><input
+                                        class="form-control me-2" type="email" name="password" placeholder="Пароль"
+                                        style="background: var(--bs-light);border-style: none;"><input
+                                        class="form-control ms-2" type="email" name="Email" placeholder="Почта"
+                                        style="background: var(--bs-light);border-style: none;"></div>
+                                <div class="mb-0"><button class="btn btn-primary d-block w-100" type="submit"
+                                        style="background: var(--bs-success);border-style: none;">Сохранить</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="col-md-12 col-xxl-12 d-md-flex justify-content-sm-center pb-xxl-0 ps-xxl-3 pe-xxl-0 pt-xxl-0 pt-4 pb-4">
+                    <div class="card d-flex flex-column justify-content-center align-items-center mb-0 pe-xxl-2 ps-xxl-2 pt-xxl-2 pb-xxl-2 pt-2 pb-2 ps-2 pe-2"
+                        style="border-style: none;">
+                        <div class="bs-icon-xl bs-icon-circle bs-icon-primary d-xxl-flex align-items-xxl-center bs-icon my-4 mb-2 mt-2 me-3 ms-3 ms-xxl-0 me-xxl-0 mt-xxl-0 mb-xxl-0"
+                            style="background: var(--bs-success);"><svg xmlns="http://www.w3.org/2000/svg" width="1em"
+                                height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-person">
+                                <path
+                                    d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664z">
+                                </path>
+                            </svg></div>
+                        <h5 class="text-center mb-xxl-0 pt-xxl-2 pb-xxl-2">Участник 1</h5><span
+                            class="text-center pt-xxl-2 pb-xxl-2">Капитан команды</span><span
+                            class="text-center pt-xxl-2 pb-xxl-2"
+                            style="color: var(--bs-success);font-weight: bold;">Сдано: 15 кг</span>
+                    </div>
+                </div>
+                <div class="col-md-12 col-xxl-12 pb-xxl-0 ps-xxl-3 pe-xxl-0 pt-xxl-0">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead style="border-style: none;">
+                                <tr style="border-style: none;">
+                                    <th style="border-style: none;">Дата</th>
+                                    <th style="border-style: none;">Количестов, кг</th>
+                                    <th style="border-style: none;">Место сдачи</th>
+                                    <th style="border-style: none;">Статус</th>
+                                </tr>
+                            </thead>
+                            <tbody style="border-style: none;">
+                                <tr
+                                    style="border-style: none;border-bottom-style: none;border-bottom-color: var(--bs-info);">
+                                    <td style="border-bottom-style: none;">21.03.2025</td>
+                                    <td style="border-bottom-style: none;">5</td>
+                                    <td style="border-bottom-style: none;">г.Курган</td>
+                                    <td class="d-flex flex-column" style="border-bottom-style: none;"><button
+                                            class="btn btn-success" type="button">Подтверждено</button></td>
+                                </tr>
+                                <tr style="border-style: none;">
+                                    <td style="border-bottom-style: none;">21.03.2025</td>
+                                    <td style="border-bottom-style: none;">5</td>
+                                    <td style="border-bottom-style: none;">г.Курган</td>
+                                    <td class="d-flex flex-column" style="border-bottom-style: none;"><button
+                                            class="btn btn-danger" type="button">Отклонено</button></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
